@@ -1,0 +1,23 @@
+{
+  "name": "api-automation-supertest",
+  "version": "1.0.0",
+  "description": "this project automates api for a pet store using super test library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha 'test/**/*.js'"
+  },
+  "keywords": [
+    "supertest",
+    "automation",
+    "testing",
+    "rest-api",
+    "api",
+    "testing"
+  ],
+  "author": "Mitul Vaghela",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.1.3",
+    "supertest": "^6.1.6"
+  }
+}
